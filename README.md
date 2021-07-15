@@ -1,1 +1,1 @@
-# Educational-Certificate-Authorized_Issuers-smart-contract
+# smart-contract for (Educational Certificate managed by Authorized_Issuers)
